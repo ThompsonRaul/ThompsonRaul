@@ -1,10 +1,12 @@
 ###
 
 **Stats:**
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThompsonRaul&show_icons=true&theme=radical)
 
 
 **Languages:**
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThompsonRaul)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
