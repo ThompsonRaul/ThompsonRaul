@@ -4,7 +4,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Tenho 23 anos e estou cursando o último semestre de Ciência da Computação pela UESC (Universidade Estadual de Santa Cruz). Sou apaixonado por desenvolvimento Web e atualmente estou focado em tecnologias como **Next.js**, **Node.js**, **React**, **Docker** e **PostgreSQL**.
+Tenho 24 anos e estou cursando o último semestre de Ciência da Computação pela UESC (Universidade Estadual de Santa Cruz). Sou apaixonado por desenvolvimento Web e atualmente estou focado em tecnologias como **Next.js**, **Node.js**, **React**, **Docker** e **PostgreSQL**.
 
 Atualmente, participo de uma Iniciação Científica voltada ao **mapeamento de competências científicas para o SENAI CIMATEC**, e também atuo como estagiário voluntário na **construção de um site próprio para o projeto "Dinamizando o Ensino da Língua Inglesa"**, vinculado à UESC.
 
